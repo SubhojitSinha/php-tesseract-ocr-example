@@ -79,3 +79,4 @@ function getDirectoryFileListArray($path)
 
     return $files_array;
 }
+?>
